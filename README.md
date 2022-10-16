@@ -1,1 +1,1 @@
-# EC-602-Twitter-Project
+# EC-602-Twitter-API-Project
