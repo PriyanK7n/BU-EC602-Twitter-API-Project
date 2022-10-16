@@ -10,6 +10,8 @@ Extracted patients experiences using the twitter API. Multiple keywords used and
 
 # Tweets Cleaning
 
-After the Tweets collection, the tweets were cleaned by removing non-English tweets, mentions, URLs etc. All the tweets that were promotions were cleaned and then the final tweets dataset boiled down to 80k tweets. 
+After the Tweets collection, the tweets were cleaned by removing non-English tweets, mentions, URLs etc. All the tweets that were promotions were cleaned and then the final tweets dataset boiled down to 80k tweets. The tweets in the corpus were characterized as following:
+* Relevant tweet
+* Irrelevant irrelevant tweets (contained ads/promotions, government schemes, or fundraisers).
  
 
